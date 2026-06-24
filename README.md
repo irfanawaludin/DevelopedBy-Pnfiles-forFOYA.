@@ -1,8 +1,8 @@
-# FOYA Official Website 👕
+# FOYA Official Website
 
 Website landing page resmi untuk brand clothing lokal **FOYA** yang dirancang dengan tampilan modern, responsif, dan user-friendly untuk membantu pelanggan melihat katalog produk serta melakukan pemesanan secara langsung melalui WhatsApp.
 
-## 🚀 Tentang Project
+## Tentang Project
 
 Project ini dibuat untuk memenuhi kebutuhan digital branding FOYA sebagai media promosi dan katalog online.
 
@@ -14,7 +14,7 @@ Website ini dirancang agar pelanggan dapat dengan mudah:
 * Mengenal brand FOYA lebih dekat
 * Melihat testimoni pelanggan
 
-## ✨ Fitur
+## Fitur
 
 * Responsive Landing Page
 * Hero Section
@@ -26,7 +26,7 @@ Website ini dirancang agar pelanggan dapat dengan mudah:
 * Integrasi WhatsApp
 * Social Media Integration
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * Next.js
 * React
@@ -34,7 +34,7 @@ Website ini dirancang agar pelanggan dapat dengan mudah:
 * Tailwind CSS
 * Lucide React
 
-## 📂 Struktur Project
+## Struktur Project
 
 ```text
 app/
@@ -43,12 +43,13 @@ data/
 public/
 ```
 
-## 📱 Kontak FOYA
+## Kontak FOYA
 
-* WhatsApp: +62 813-2541-2191
+* WhatsApp: +62 882-3319-2856
 * Instagram: @foya__official
+* Tiktok: @foya.official
 
-## 👨‍💻 Developer
+## Developer
 
 Developed by Pnfiles for FOYA.
 
